@@ -1,3 +1,6 @@
+//Tout d'abord, on crée un nouveau dossier et on y incorpore l'image choisie
+-> On renomme l'arrière-plan calque 0 (il le fait automatiquement quand on le dévérouille en cliquant sur le cadenas à côté du nom du calque)
+
 //On redimensionne l'image sur/autour de l'élément qui nous intéresse
 -> C ou Ctrl + C (= reside)
 
