@@ -1,0 +1,47 @@
+//On redimensionne l'image sur/autour de l'élément qui nous intéresse
+-> C ou Ctrl + C (= reside)
+
+/* Dans "Couche" (à côté des calques) 
+-> On selectionne la couche la plus contrastée (entre vert, rouge, bleu) en cliquant dessus */
+
+//On fait une selection ensuite de l'image qui est maintenant contrastée
+-> Ctrl + A (= selectionner tout)
+
+//On copie l'image ansi selectionnée
+-> Ctrl + C (= copier)
+
+//On créait un nouveau calque (= calque 1)
+
+//On colle l'image copiée sur le calque 1
+-> Ctrl + V (= coller)
+
+/* On va maintenant modifier les contrastes de l'image du calque 1,
+afin de faire disparaître les éléments qui ne nous intéressent pas et faire ressortir ce qui nous intéresse */
+-> Dans "Niveau" (entre "créer un claque" et "créer un dossier" en bas à droite) 
+-> on bouges les curseurs du graphique du haut de la page qui s'est donc ouverte (pas celui d'en bas).
+
+//Après avoir finit de bouger les curseurs, on aplâtit l'image
+-> Ctrl + Alt + Shift + E (= aplâtir)
+// "Shift" est la touche juste au dessus de la touche de "Ctrl" bas gauche du clavier (= Maj)
+
+//On va maintenant inverser les couleurs de l'image sur/dans le calque aplâti (le blanc devient noir et le noir devient blanc)
+-> Ctrl + I (= inverser les couleurs)
+
+//On selectionne de nouveau cette image après inversion des couleurs
+-> Ctrl + A
+
+//On la copie
+-> Ctrl + C
+
+//On créer un masque à notre calque 0 qui contient notre image de base
+-> On sélectionne le calque 0 -> on fait "créer un masque" en bas à droite de l'écran
+
+//On selectionne ensuite le masque créé
+-> Alt + clic.souris.gauche
+
+//On colle sur le masque
+-> Ctrl V
+
+//On peut maintenant modifier l'image sur le masque afin d'appliquer les dernière modifications nécessaire
+(PS: quand le professeur attend à ce qu'on lui fournisse un brush, il nous faut que cette image que l'on a maintenant détourée soit entièrement en noir.
+Cela ne vous empêche pas néanmoins de sauvegarder une copie de l'image détourée en couleur, pour la réutiliser dans de future projet!)
